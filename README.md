@@ -20,4 +20,4 @@ Aprenderemos los principios básicos de IoT con micropython y leds neopixel prog
 
 ## Luces Ritmicas over WiFi
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4jN5UQp-54" frameborder="0" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/q4jN5UQp-54/0.jpg)](http://www.youtube.com/watch?v=q4jN5UQp-54 "video YouTube")
